@@ -44,11 +44,7 @@ Se você é um desenvolvedor e quer ajudar a melhorar esse projeto, fique à von
 
 **Contribuidores:**
 
-* **[Seu nome]**: Criador e desenvolvedor do projeto.
-
-**Licença:**
-
-[Escolha uma licença adequada para o seu projeto, como MIT ou Apache 2.0]
+* **Isac**: Criador e desenvolvedor do projeto.
 
 **Agradecimentos:**
 
