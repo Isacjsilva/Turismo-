@@ -1,5 +1,3 @@
-## **README descontraído para o seu projeto GitHub**
-
 ### **Descubra as maravilhas de Carvalhos-MG!** ️
 
 **O que faz esse projeto:**
